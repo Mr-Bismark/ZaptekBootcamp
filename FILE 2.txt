@@ -1,0 +1,34 @@
+MY FIRST DAY AT ZAPTEK BOOT CAMP.
+
+Hello everyone! This is Bismark once again.
+Today was actually the first time we met for
+the web development boot camp organized by
+ZAPTEK.
+
+Being our first day, we were showed how to 
+install certain important and useful softwares and
+create certain useful accounts on websites such
+as Github.
+
+Today we were introduced to Git, Github and
+VSCode. It was a nice experience, especially
+considering the fact that I have never participated in 
+any web development boot camp before.
+
+We were able to push our first file to our 
+github account.
+
+I really do hope that at the end of the seven
+weeks, everything would be fine and I would be
+well informed and well equipped for the 
+web development world.
+
+I hope to build my knowledge and expand to 
+learn greater things as fast and as early as I can.
+I am hoping that at the end of my 4-year stay
+on KNUST campus, I would have become a seasoned
+web developer, knowing all the technologies associated with
+it, become a seasoned software developer as well, and all
+the other fields that I am yet to discover.
+
+See you in the next meetings with ZAPTEK.
